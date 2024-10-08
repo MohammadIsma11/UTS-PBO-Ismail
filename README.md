@@ -49,28 +49,30 @@ berikut untuk kodingan dalam button update untuk mengubah data kita dalam table 
 
 dan berikut isi kodingan dalam method updateDb
 
-![Screenshot 2024-10-08 132944](https://github.com/user-attachments/assets/2b069140-edbc-47af-bd46-4ace6b82a1a3)
+![Screenshot 2024-10-08 133003](https://github.com/user-attachments/assets/8954085a-0b7b-4b21-916b-3a8537acbb5c)
 
 ## Kodingan Delete
 berikut untuk kodingan dalam button delete untuk menghapus data kita dalam table dengan memanggil method deleteDb
 
-![Screenshot 2024-10-08 133003](https://github.com/user-attachments/assets/8954085a-0b7b-4b21-916b-3a8537acbb5c)
+![Screenshot 2024-10-08 133020](https://github.com/user-attachments/assets/624dde95-4684-4575-8d10-ecfffebe4de0)
 
 dan berikut isi kodingan dalam method deleteDb
 
-![Screenshot 2024-10-08 133020](https://github.com/user-attachments/assets/624dde95-4684-4575-8d10-ecfffebe4de0)
+![Screenshot 2024-10-08 133035](https://github.com/user-attachments/assets/05ab3373-7980-4bfd-a33a-9022f297986d)
+
 ## Menampilkan Data
 selanjutnya kita membuat method show table untuk menampilkan data di dalam table dan dengan bantuan memanggil method selectDb
 
-![Screenshot 2024-10-08 133035](https://github.com/user-attachments/assets/05ab3373-7980-4bfd-a33a-9022f297986d)
+![Screenshot 2024-10-08 133100](https://github.com/user-attachments/assets/f88fc057-e086-458e-95e9-174af9b662cf)
+
 dan berikut isi kodingan dalam method selectDb
 
-![Screenshot 2024-10-08 133100](https://github.com/user-attachments/assets/f88fc057-e086-458e-95e9-174af9b662cf)
+![Screenshot 2024-10-08 133119](https://github.com/user-attachments/assets/9a3666be-0900-4a38-8919-0ed0f51bbb62)
 
 ## Hasil Tampilan
 dan berikut hasil dari tampilannya
 
-![Sebelum Insert](https://github.com/user-attachments/assets/4359a7cb-b857-41bb-9209-3844c655cd42)
+![tampilan + sebelum insert](https://github.com/user-attachments/assets/de12c9da-ba31-48c2-a6b5-c7c04b410717)
 
 ## Praktek
 
@@ -78,25 +80,26 @@ dan berikut hasil dari tampilannya
 kita akan mencoba memasukkan data dalam tabel
 
 **sebelum**
-![Sebelum Insert](https://github.com/user-attachments/assets/4359a7cb-b857-41bb-9209-3844c655cd42)
+![tampilan + sebelum insert](https://github.com/user-attachments/assets/de12c9da-ba31-48c2-a6b5-c7c04b410717)
 **sesudah**
-![sesudah insert](https://github.com/user-attachments/assets/a30a35db-9461-486b-b571-02b2291bb19f)
+![sesudah insert + sebelum update](https://github.com/user-attachments/assets/66273670-dc64-4252-98ff-2fd73b9f95e8)
 
 ## Tampilan Update
 Kita akan mencoba mengubah data dalam table dari laskar pelangi menjadi jendral soedirman
 
 **sebelum**
-![sesudah insert](https://github.com/user-attachments/assets/a30a35db-9461-486b-b571-02b2291bb19f)
+![sesudah insert + sebelum update](https://github.com/user-attachments/assets/66273670-dc64-4252-98ff-2fd73b9f95e8)
 **sesudah**
-![sesudah update dan sebelum delete](https://github.com/user-attachments/assets/c83c479f-82cb-45da-a39c-b945f3942351)
+![sesudah update + sebelum delete](https://github.com/user-attachments/assets/151724d5-5c02-4c11-bdf1-24957bf30035)
 
 ## Tampilan Delete
 kita akan mencoba menghapus data yang ada dalam table
 
 **sebelum**
-![sesudah update dan sebelum delete](https://github.com/user-attachments/assets/c83c479f-82cb-45da-a39c-b945f3942351)
+![sesudah update + sebelum delete](https://github.com/user-attachments/assets/151724d5-5c02-4c11-bdf1-24957bf30035)
 **sesudah**
-![sesudah delete](https://github.com/user-attachments/assets/6f6d7444-130f-4ec7-8767-ddbdffdf69e8)
+
+![sesudah delete](https://github.com/user-attachments/assets/e045a2a6-2420-40c0-a406-ea1f30b9aeea)
 
 Semoga langkah-langkah yang saya berikan dan dapat dipahami sekian terimakasih
 Semangat UTS kawan - kawan
